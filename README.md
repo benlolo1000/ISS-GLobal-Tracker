@@ -1,2 +1,3 @@
 # ISS GLobal Tracker
- Allows you to view the current longitude and latitude of the International Space Station overlaid on a world map.
+ A simple html page which tracks the current whereabouts of the ISS and plots it along a map of the world. Built using OpenStreetMap https://www.openstreetmap.org/ and the 'Where Is the ISS At?' projhect developed by Bill Shupp https://wheretheiss.at/
+ 
